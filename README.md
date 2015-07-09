@@ -1,5 +1,7 @@
 # JavaScript Style Guide
 
+Highly inspired by https://github.com/airbnb/javascript/tree/8d2a83385795b8a3763890a344f9592e36ed9407/es5
+
 ## Table of contents
 1. [Tabs](#tabs)
 2. [Whitespace](#whitespace)
