@@ -1,4 +1,4 @@
-# Javascript code style guide
+# JavaScript Style Guide
 
 ## Table of contents
 1. [Tabs](#tabs)
