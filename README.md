@@ -432,12 +432,12 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
   var person = new Person();
 ```
 
-- Use `// FIXME:` to annotate problems.
+- [17.4](#17.4) Use `// FIXME:` to annotate problems.
 ```javascript
   // TODO: Write more code! 
 ```
 
-- Use `// TODO:` to annotate solutions to problems.
+- [17.5](#17.5) Use `// TODO:` to annotate solutions to problems.
 ```javascript
   // TODO: Write more code!
 ```
