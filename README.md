@@ -445,7 +445,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 **[⬆ back to top](#table-of-contents)**
 
 
-### JQuery
+### jQuery
 - [18.1](#18.1) Cache jQuery lookups.
 ```javascript
   var setSidebar = function() {
