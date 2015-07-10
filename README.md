@@ -434,7 +434,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 
 - [17.4](#17.4) Use `// FIXME:` to annotate problems.
 ```javascript
-  // TODO: Write more code! 
+  // FIXME: Something is wrong here, please fix it
 ```
 
 - [17.5](#17.5) Use `// TODO:` to annotate solutions to problems.
