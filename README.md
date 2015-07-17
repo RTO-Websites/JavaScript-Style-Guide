@@ -85,7 +85,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
   ]
 ```
 
-- [4.2](#4.2) Use additional trailing commas.
+- [4.2](#4.2) Use additional trailing commas for the last elements in arrays.
 ```javascript
   var numbers = [
       1,
