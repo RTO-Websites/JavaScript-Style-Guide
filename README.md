@@ -201,7 +201,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
   var name = person.name;
 ```
 
-- [7.4](#7.4) Use subscript notation [] when accessing properties with a variable.
+- [7.4](#7.4) Use subscript notation `[]` when accessing properties with a variable.
 ```javascript
   var person = {
       name: 'John Doe'
