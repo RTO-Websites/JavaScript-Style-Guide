@@ -425,7 +425,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 
 - [17.2](#17.2) **Note:** For more information see [JSDoc](http://usejsdoc.org/).
 
-- [17.3](#17.3) Use // for single line comments. Place single line comments on a newline above the subject of the comment. Put an empty line before the comment.
+- [17.3](#17.3) Use `//` for single line comments. Place single line comments on a newline above the subject of the comment. Put an empty line before the comment.
 ```javascript
   console.log('Make pretty comments!');
 
