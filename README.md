@@ -105,7 +105,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
   var testFunction = function() {};
 ```
 
-- [5.2](#5.2) Use SNAKE_CASE in uppercase for constants.
+- [5.2](#5.2) Use SNAKE_CASE and uppercase for constants.
 ```javascript
   const API_URL = '/api';
 ```
