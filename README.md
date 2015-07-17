@@ -47,7 +47,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 
 - [2.3](#2.3) Place no space before the argument list in function calls and declarations.
 ```javascript
-  var test = function() {};
+  var test = function(firstParameter) {};
 ```
 
 - [2.4](#2.4) Set off operators with spaces.
