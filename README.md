@@ -207,7 +207,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
       name: 'John Doe'
   },
   property = 'name';
-  var name = person[name];
+  var name = person[property];
 ```
 
 **[⬆ back to top](#table-of-contents)**
