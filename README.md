@@ -1,6 +1,6 @@
 # JavaScript Style Guide
 
-PHP Style Guide to maintain readable code, that looks like it was written by one person, even if a whole team was working on it.
+JavaScript Style Guide to maintain readable code, that looks like it was written by one person, even if a whole team was working on it.
 Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript/tree/8d2a83385795b8a3763890a344f9592e36ed9407/es5)
 
 ## Table of contents
