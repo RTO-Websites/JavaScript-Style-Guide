@@ -107,7 +107,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 
 - [5.2](#5.2) Use SNAKE_CASE and uppercase for constants.
 ```javascript
-  const API_URL = '/api';
+  var API_URL = '/api';
 ```
 
 - [5.3](#5.3) Use PascalCase when naming constructors or classes.
