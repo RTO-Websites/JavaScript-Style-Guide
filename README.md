@@ -271,7 +271,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
   var name = 'John Doe';
 ```
 
-- [10.2](#10.2) Strings longer than 100 characters should be written across multiple lines using string concatenation.
+- [10.2](#10.2) Strings, whose length exceeds the maximum amount of characters per line and would extend beyond the Right Margin (100 characters), should be split up and written across multiple lines using string concatenation.
 ```javascript
   var description = 'I'm a very long text and need to be written across multiple lines using string ' + 
     'concatenation.';
