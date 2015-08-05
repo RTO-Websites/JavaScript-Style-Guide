@@ -317,13 +317,14 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
 
 
 ### Iterators
-- [13](#13.1) Don't use iterators. Prefer JavaScript's higher-order functions like map() and reduce() instead of loops like for-of.
+- [13.1](#13.1) Don't use iterators. Prefer JavaScript's higher-order functions like map() and reduce() instead of loops like for-of.
 ```javascript
   var numbers = [4, 2];
   numbers.forEach(function(num) {
       console.log(num);
   });
 ```
+- [13.2](#13.2) **Note:** Have [browser compatibility](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/map#Polyfill) in mind. (`.map` and `.reduce` are not supported on <= IE8)
 
 **[⬆ back to top](#table-of-contents)**
 
