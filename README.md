@@ -277,17 +277,7 @@ Highly inspired by [Airbnb JavaScript Style Guide](https://github.com/airbnb/jav
     'concatenation.';
 ```
 
-- [10.3](#10.3) **Note**: If overused, long strings with concatenation could impact performance. [jsPerf](http://jsperf.com/ya-string-concat) & [Discussion](https://github.com/airbnb/javascript/issues/40). 
-
-- [10.4](#10.4) When programmatically building up strings, use template strings instead of concatenation.
-```javascript
-  var person = {
-      name: 'John Doe',
-      walk(meters) {
-          return '${this.name} walked ${meters}m.';
-      }
-  };
-```
+- [10.3](#10.3) **Note**: If overused, long strings with concatenation could impact performance. [jsPerf](http://jsperf.com/ya-string-concat) & [Discussion](https://github.com/airbnb/javascript/issues/40).
 
 
 ### Functions
